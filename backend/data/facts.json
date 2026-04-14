@@ -1,0 +1,27 @@
+{
+    "full_name": "Calistus Igwilo",
+    "name": "The Great Cali",
+    "current_role": "Senior AI, Backend & DevOps Engineer | Cloud & Platform Architect",
+    "location": "Nigeria",
+    "email": "ebunloigwilo@gmail.com",
+    "linkedin": "linkedin.com/in/calistus-igwilo",
+    "specialties": [
+      "AI, Backend, DevOps, Cloud, Platform Architecture",
+      "Python, Django, FastAPI, REST API, Asynchronous Systems",
+      "Database Optimization, PostgreSQL, MySQL",
+      "Multi-agent system design, LLM orchestration, RAG pipelines, Prompt engineering, AI system integration"
+    ],
+    "years_experience": 10,
+    "education": [
+      {
+        "degree": "MSc. Bioengineering",
+        "institution": "University of Nottingham",
+        "year": "2013"
+      },
+      {
+        "degree": "BSc. Biotechnology",
+        "institution": "Federal University of Technology, Owerri",
+        "year": "2010"
+      }
+    ]
+  }

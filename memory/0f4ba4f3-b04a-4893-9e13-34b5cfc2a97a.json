@@ -1,0 +1,12 @@
+[
+  {
+    "role": "user",
+    "content": "Hello",
+    "timestamp": "2026-04-14T12:03:45.264262"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello! Welcome to my website. I'm Calistus Igwilo, also known as The Great Cali. How can I assist you today? Whether it's about my work, experience, or anything else professional, feel free to ask!",
+    "timestamp": "2026-04-14T12:03:45.264291"
+  }
+]
